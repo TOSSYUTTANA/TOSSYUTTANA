@@ -1,5 +1,5 @@
 - 👋 Hi, I’m YUTTANA AINTHASAK(Toss)
-- 👀 I’m interested in front-end framework, .net core, cross platform (React Natvie, Flutter,), Kotlin, Switf UI , ai, maching learning, deep learning, IOT, tech development
+- 👀 I’m interested Tech development
 - 🌱 I’m currently ...
 - 📫 How to reach me ...
 
